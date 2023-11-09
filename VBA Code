@@ -35,7 +35,7 @@ Dim start_data As Integer
 
 Dim ws As Worksheet
 
-' Initiate or loop in all worksheet to excute the code once
+' Loop in all worksheet to excute the code once
 '--------------------------------------------------
 
 For Each ws In Worksheets
